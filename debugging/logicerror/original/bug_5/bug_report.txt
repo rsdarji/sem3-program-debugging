@@ -1,0 +1,27 @@
+=== Expected behaviour ===
+A prime number is a number which is only divisible by 1 and itself.
+Every number can be written as a product of prime factors.
+
+Examples:
+    12 = 2 * 2 * 3
+    45 = 3 * 3 * 5
+    100 = 2 * 2 * 5 * 5
+
+This app prompts the user for a number and prints out its prime factorization.
+
+It should look like this:
+
+    Enter a number to find its prime factorization: 75
+    The factors of 75 are: 1, 3, 5, 5
+
+=== Bug ===
+The output is missing prime factors most of the time.
+
+Here is an example with the above input:
+
+    Enter a number to find its prime factorization: 75
+    The factors of 75 are: 1, 5, 5
+
+This is clearly incorrect since 5 * 5 = 25. The factor '3' is missing.
+
+This leads us to think our algorithm must be incorrect

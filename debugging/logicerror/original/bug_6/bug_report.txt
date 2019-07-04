@@ -1,0 +1,31 @@
+=== Expected behaviour ===
+This app allows user to share cooking recipes in a clear and standardized format.
+
+The user is prompted to enter ingredients an amount composing a recipe.
+
+Here is what the user interface looks like:
+
+    Ingredient: eggs
+    Quantity: 5
+    Press ENTER to add another ingredient. Enter QUIT to quit.
+    Ingredient: flour
+    Quantity: 500 ml
+    Press ENTER to add another ingredient. Enter QUIT to quit.
+    Ingredient: milk
+    Quantity: 250 ml
+    Press ENTER to add another ingredient. Enter QUIT to quit.quit
+
+The recipe should then be saved to the fine 'your_recipe.txt' in the following format:
+
+    ================= Recipe =================
+    Eggs ................................... 5
+    Flour ............................. 500 ml
+    Milk .............................. 250 ml
+
+=== Bug ===
+
+For the following input, some ingredients are missing in the output file:
+
+    ================= Recipe =================
+    Eggs ................................... 5
+

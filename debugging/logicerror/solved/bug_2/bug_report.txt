@@ -1,0 +1,20 @@
+=== Expected behaviour ===
+This simple app should prompt the user for a list of words.
+There is no restriction on the words, they can contain special characters.
+The user is the asked to input some letters.
+The app should output all words which do not contain those letters.
+The app is not case sensitive.
+
+=== Bug ===
+Sometimes, words are not removed correctly.
+
+Here is an example of incorrect output.
+
+Enter a list of word. When done, type ENTER without entering anything:
+Apple
+Addition
+Acceleration
+
+Enter any letters, the words containing these will be removed: a
+Here are the words you entered:
+1. Addition

@@ -1,0 +1,9 @@
+=== Expected behaviour ===
+This program is a prototype to create a card game.
+At the start of the game, ths player will be asked to pick five different cards.
+The program then prints the player's hand and the game can start.
+For now, the rest of the game is not implemented.
+
+=== Bug ===
+Some cards which should be in the deck cannot be picked correctly.
+The program will sometimes print "This choice is not available" even though the card is listed as available.

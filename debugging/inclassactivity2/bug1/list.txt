@@ -1,0 +1,6 @@
+Setup backend   45
+UI prototype    30
+Test suite      30
+Fundraising     60
+Debugging       90
+Marketing       80

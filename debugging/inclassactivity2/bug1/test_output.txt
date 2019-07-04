@@ -1,0 +1,12 @@
+Worker #1
+Debugging ............... 90h
+Setup backend ........... 45h
+UI prototype ............ 30h
+Total time: 165h
+
+Worker #2
+Marketing ............... 80h
+Fundraising ............. 60h
+Test suite .............. 30h
+Total time: 170h
+

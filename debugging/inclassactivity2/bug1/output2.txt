@@ -1,0 +1,18 @@
+Worker #1
+Debugging ............... 90h
+Total time: 90h
+
+Worker #2
+Marketing ............... 80h
+Total time: 80h
+
+Worker #3
+Fundraising ............. 60h
+Test .................... 30h
+Total time: 90h
+
+Worker #4
+Setup ................... 45h
+UI ...................... 30h
+Total time: 75h
+

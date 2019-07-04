@@ -1,0 +1,15 @@
+=== Expected behaviour ===
+This simple app should prompt the user for a list of words.
+There is no restriction on the words, they can contain special characters.
+The user is the asked to input some letters.
+The app should output all words which do not contain those letters.
+The app is not case sensitive.
+
+=== Bug ===
+You previously helped fixing a bug with this program.
+This is a new version of the 'filter_name.py' script from a previous problem set.
+
+The previous bug was caused by updating the list of words inside a for-loop.
+For this reason, we decided to rewrite the algorithms used in this app.
+
+Although, since the update the program seems to freeze instead of outputting.

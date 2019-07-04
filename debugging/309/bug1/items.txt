@@ -1,0 +1,7 @@
+Bricks      400
+Tires       75
+Foam        5
+Paint       220
+Wire        150
+Concrete    350
+Wood planks 200

@@ -1,0 +1,18 @@
+This is
+a sample text file sent to you to demonstrate
+the algorithm for
+formatting text. Text should come out evenly spaced.
+
+This is
+a sample text file sent to you to demonstrate
+the algorithm for
+formatting text. Text should come out evenly spaced.
+
+This is
+a sample text file sent to you to demonstrate
+the algorithm for
+formatting text. Text should come out evenly spaced.
+This is
+a sample text file sent to you to demonstrate
+the algorithm for
+formatting text. Text should come out evenly spaced.

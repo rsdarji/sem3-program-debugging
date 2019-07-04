@@ -1,0 +1,9 @@
+A number is a mathematical object used to count, measure, and label.
+The original examples are the natural numbers 1, 2, 3, 4, and so forth.
+A written symbol like "5" that represents a number is called a numeral.
+A numeral system is an organized way to write and manipulate this type of symbol,
+for example the Hindu–Arabic numeral system allows combinations of numerical digits
+like "5" and "0" to represent larger numbers like 50.
+Numbers can also be negative, by example -1.
+
+Source: https://en.wikipedia.org/wiki/Number

@@ -1,0 +1,11 @@
+=== Expected behaviour ===
+
+This program randomly chooses a number from 0 to 10 which the user has to guess.
+
+The goal is for the user to find the number as quickly as possible.
+
+When the user finds the number, its score is printed.
+
+=== Bug ===
+
+Even when trying all valid input, the game continues without accepting the user's answer.

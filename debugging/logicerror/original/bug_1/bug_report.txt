@@ -1,0 +1,32 @@
+=== Expected Behaviour ===
+This app is used by retail workers to quickly write a shop's inventory to a file and sort it.
+The app first prompt the user to enter items one at a time by entering their name and quantity available
+The user is then asked to choose whether the file should be sorted by item name or by item quantity.
+
+By example, if the user answers the following:
+
+  Enter an item name: shoes
+  Enter the item quantity: 5
+  Continue? [y/n]: y
+  Enter an item name: jackets
+  Enter the item quantity: 2
+  Continue? [y/n]: y
+  Enter an item name: hats
+  Enter the item quantity: 11
+  Continue? [y/n]: n
+  Do you want to sort the inventory by quantity or name? [qty/name]: qty
+
+The output in "inventory.txt" should look like this.
+
+  Jackets: 2
+  Shoes: 5
+  Hats: 11
+
+=== Bug ===
+Sometimes when sorting by quantity, the output in "inventory.txt" is not ordered correctly.
+
+By example with the same output as above, we have the following file.
+
+  Hats: 11
+  Jackets: 2
+  Shoes: 5

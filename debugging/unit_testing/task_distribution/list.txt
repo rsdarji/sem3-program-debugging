@@ -1,0 +1,3 @@
+Buy milk      2
+Cook diner    3
+Clean dishes  1
